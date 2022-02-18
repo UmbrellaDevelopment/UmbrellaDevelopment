@@ -1,5 +1,5 @@
 - 📌 Hello world ! I’m @UmbrellaDevelopment, an 18yo student in France !
-- 🌱 I’m currently learning Java, Python, JavaScript. But maybe more !
+- 🌱 I’m currently learning Java, Python, Arduino, JavaScript. But maybe more !
 - ✨ I love music, video games (Resident Evil, Minecraft, Genshin Impact) and informatic/electronic !
 
 Actually working on :
