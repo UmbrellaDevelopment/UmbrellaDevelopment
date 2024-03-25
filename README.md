@@ -2,11 +2,6 @@
 - 🌱 I’m currently learning Java, Python, Arduino, JavaScript. But maybe more !
 - ✨ I love music, video games (Resident Evil, Minecraft, Genshin Impact) and informatic/electronic !
 
-Actually working on :
-- Demonist mod for Minecraft 1.16.5 
-- Some electronic projects
-
-My Discord server : https://discord.gg/TRwmAKryda
 <!---
 UmbrellaDevelopment/UmbrellaDevelopment is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
