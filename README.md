@@ -1,6 +1,6 @@
-- 📌 Hello world ! I’m @UmbrellaDevelopment, an 18yo student in France !
-- 🌱 I’m currently learning Java, Python, Arduino, JavaScript. But maybe more !
-- ✨ I love music, video games (Resident Evil, Minecraft, Genshin Impact) and informatic/electronic !
+- 📌 Hello world from France !
+- 🌱 I’m a junior developer learning and using Java, C#, Arduino !
+- ✨ I love music, video games (Resident Evil, Minecraft, Genshin Impact) and IT/electronic !
 
 <!---
 UmbrellaDevelopment/UmbrellaDevelopment is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
